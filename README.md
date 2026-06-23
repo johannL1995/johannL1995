@@ -10,4 +10,4 @@ $$
 \text{Welcome to my Github profile}
 $$
 
-<img src="PaperStuffLong.png">
+<img src="PaperStuffLongNew.png">
