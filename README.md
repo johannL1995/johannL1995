@@ -9,3 +9,5 @@ $$
 \LARGE
 \text{Welcome to my Github profile}
 $$
+
+<img src="PaperStuffLong.png">
