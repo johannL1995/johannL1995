@@ -28,3 +28,7 @@ $$
 *I want to focus on 3D stuff and things related to Blender, however Blender is only part of my workflow check below to see all the software that I use, and how...*
 
 <img src="images/AboutMe.png">
+
+<img src="images/Projects.png">
+
+<img src="images/Software.png">
