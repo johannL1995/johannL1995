@@ -23,4 +23,4 @@ $$
 \text{Hello and welcome to my profile}
 $$
 
-<img src="PaperStuffLongNew.png">
+<img src="images/AboutMe.png">
