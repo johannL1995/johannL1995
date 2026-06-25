@@ -20,3 +20,5 @@ $$
 <img src="images/Projects.png">
 
 <img src="images/Software.png">
+
+<sub>If you want the .blend file I used in my headings, you can get it [here](https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/Scrabble.blend) (The collection has all the letters in it, just unhide it by pressing H)</sub>
