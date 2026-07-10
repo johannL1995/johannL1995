@@ -17,7 +17,13 @@ $$
 
 <img src="images/AboutMe.png">
 
+I like computers and technology a lot (you haven't heard that a million times already...) I especially like learning new things about computers and I love helping people learn about computers. My ultimate goal in life is to help people learn about technology and how to use it properly.
+
+I also like 3D and art too.
+
 <img src="images/Projects.png">
+
+**Under Construction (forever probably)**
 
 <img src="images/Software.png">
 
