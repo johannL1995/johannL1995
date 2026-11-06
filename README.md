@@ -15,17 +15,17 @@ $$
 
 *I want to focus on 3D stuff and things related to Blender, however Blender is only part of my workflow check below to see all the software that I use, and how...*
 
-<img src="images/AboutMe.png">
+<img src="images/AboutMe.gif">
 
 *I like computers and technology a lot (you haven't heard that a million times already...) I especially like learning new things about computers and I love helping people learn about computers. My ultimate goal in life is to help people learn about technology and how to use it properly.*
 
 *I also like 3D and art too...*
 
-<img src="images/Projects.png">
+<img src="images/Projects.gif">
 
 **Under Construction (forever probably)**
 
-<img src="images/Software.png">
+<img src="images/Software.gif">
 
 I use the following software for all my work.
 
