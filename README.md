@@ -15,7 +15,7 @@ $$
 
 *I want to focus on 3D stuff and things related to Blender, however Blender is only part of my workflow check below to see all the software that I use, and how...*
 
-<img src="images/AboutMe.gif">
+<img src="images/Aboutme.gif">
 
 *I like computers and technology a lot (you haven't heard that a million times already...) I especially like learning new things about computers and I love helping people learn about computers. My ultimate goal in life is to help people learn about technology and how to use it properly.*
 
